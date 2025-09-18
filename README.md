@@ -28,7 +28,7 @@
 
 - 🌍 Website: [My Simple Page](https://example.com)
 - 💼 LinkedIn: [linkedin.com/in/example](https://linkedin.com/in/example)
-- 📫 Email: abidi.aws@gmail.com
+- 📫 Email: abidin.aws@gmail.com
 
 ---
 

@@ -4,7 +4,7 @@
   💡 Currently learning: <strong>HTML, CSS, JavaScript, PHP</strong><br>
   📫 Let's connect and build cool stuff!
 </p>
-
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcndldWNxeG4weXQ2YTZ2cXF5Nzh1ZXdxZnBqYmcwM2cybXJoM3NpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ySvhFxq6Z4LrbqaikJ/giphy.gif)
  
 ---
 

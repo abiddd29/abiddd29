@@ -5,8 +5,7 @@
   📫 Let's connect and build cool stuff!
 </p>
 
- <iframe src="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cloudsigma.com/&ved=2ahUKEwis1sW4svWOAxXjSmwGHX7-OFgQFnoECBYQAQ&usg=AOvVaw2MmKPk4ryzsOyV9nASFU_a" frameborder="0"></iframe>
-
+ 
 ---
 
 ### 🛠️ Technologies I'm Learning
@@ -28,7 +27,7 @@
 
 ### 🌐 Find Me Online
 
-- 🌍 Website: [My Simple Page](https://example.com)
+- 🌍 Website: [bobidd](https://example.com)
 - 💼 LinkedIn: [linkedin.com/in/example](https://linkedin.com/in/example)
 - 📫 Email: abidin.aws@gmail.com
 

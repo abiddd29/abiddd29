@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abid</h1>
 <p align="center">
+  Abid dan iponk selalu berdua dalam suka duka
   🚀 Beginner Web Developer<br>
   💡 Currently learning: <strong>HTML, CSS, JavaScript, PHP</strong><br>
   📫 Let's connect and build cool stuff!
